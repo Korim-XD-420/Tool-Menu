@@ -1,1 +1,1 @@
-g
+[FBAN/FB4A;FBAV/340.0.0.76.18;FBBV/338968934;FBRV/0;FBPN/com.facebook.katana;FBLC/it_IT;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung Galaxy Quantum 2;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
